@@ -1,0 +1,9 @@
+Put flask app in the main folder
+
+Once we have a database, Maria will link it to heroku.
+
+Put all html in the templates folder
+
+Put css/js in the static and static/js folders.
+
+We'll need to create a virtual environment and get the right python packages installed.  Then we can create requirements.txt and the procfile.  We'll have to rely on notes/instructions from the belly button homework and the last day of class from that week.
