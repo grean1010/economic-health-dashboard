@@ -2,3 +2,8 @@
 config.js
 config.py
 twitter_credentials.json
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
